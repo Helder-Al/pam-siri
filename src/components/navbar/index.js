@@ -5,8 +5,8 @@ import styles from './style.js';
 export default function bannerLoja(){
     return(
         <>
-        <Text style = {styles.textBanner}> Em Cartaz </Text>
-        <Image style = {styles.bannerLoja} source = {require(`../../img/bannerLoja.jpg`)} />
+        <View style={styles.navFrame}></View>
+        
         </>
     );
 }

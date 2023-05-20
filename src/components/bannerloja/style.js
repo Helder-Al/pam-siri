@@ -1,11 +1,13 @@
 import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
+    header:{
+        marginBottom:'90%'
+    },
     bannerLoja:{
         width:'100%',
-        height:200,
-        marginTop:5,
-        borderRadius:15,
+        height:550,
+        
         justifyContent:'center'
     },
     textBanner:{

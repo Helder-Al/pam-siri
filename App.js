@@ -1,22 +1,19 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import {Text, View } from 'react-native';
+import styles from './AppStyle.js';
 
-import BannerLoja from './src/components/bannerLoja';
+//Componentes
+import BannerLoja from './src/components/bannerloja/index.js';
+import NavBar from './src/components/navbar/index.js'
 
 export default function App() {
   return (
     <View style={styles.container}>
+      <NavBar></NavBar>
       <BannerLoja></BannerLoja>
       <StatusBar style="auto" />
     </View>
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: 'blue',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+
