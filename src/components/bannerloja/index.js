@@ -9,7 +9,7 @@ export default function bannerLoja(){
         
         <Image style = {styles.bannerLoja} source = {require(`../../img/bannerLoja.jpg`)} />
         <Text style = {styles.textBanner}> Em Cartaz </Text>
-        <View style = {styles.header}></View>
+        
         
         </>
     );

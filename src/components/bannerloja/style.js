@@ -7,10 +7,12 @@ const styles = StyleSheet.create({
     bannerLoja:{
         width:'100%',
         height:550,
-        
-        justifyContent:'center'
+        justifyContent:'center',
+        resizeMode: 'contain',
+        flex:1
     },
     textBanner:{
+        flex:10,
         fontSize:30,
         color:'white',
         marginTop:15,

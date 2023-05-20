@@ -7,6 +7,10 @@ const styles = StyleSheet.create({
       alignItems: 'center',
       justifyContent: 'center',
     },
+    scroller:{
+      flex:2,
+      width:'100%'
+    }
   });
 
 

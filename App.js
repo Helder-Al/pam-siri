@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import {Text, View } from 'react-native';
+import {Text,ScrollView, View } from 'react-native';
 import styles from './AppStyle.js';
 
 //Componentes
@@ -10,7 +10,10 @@ export default function App() {
   return (
     <View style={styles.container}>
       <NavBar></NavBar>
+      <ScrollView style={styles.scroller}>
       <BannerLoja></BannerLoja>
+      
+      </ScrollView>
       <StatusBar style="auto" />
     </View>
   );

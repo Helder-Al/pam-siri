@@ -5,7 +5,9 @@ import styles from './style.js';
 export default function bannerLoja(){
     return(
         <>
-        <View style={styles.navFrame}></View>
+        <View style={styles.navFrame}>
+            <Text style={styles.font}>aoba</Text>
+        </View>
         
         </>
     );
