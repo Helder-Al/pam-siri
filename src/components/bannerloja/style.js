@@ -5,7 +5,7 @@ const styles = StyleSheet.create({
         marginBottom:'90%'
     },
     bannerLoja:{
-        resizeMode:'contain',
+        resizeMode:'strech',
         width:'100%',
         height:550,
         
@@ -15,6 +15,7 @@ const styles = StyleSheet.create({
         fontSize:30,
         color:'white',
         marginTop:15,
+        textAlign:'center'
     }
 })
 

@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
     scroller:{
       flex:2,
       width:'100%',
-      resizeMode: 'contain',
+      
     }
   });
 
