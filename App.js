@@ -9,12 +9,13 @@ import NavBar from './src/components/navbar/index.js'
 export default function App() {
   return (
     <View style={styles.container}>
+      <StatusBar style="auto" />
       <NavBar></NavBar>
       <ScrollView style={styles.scroller}>
       <BannerLoja></BannerLoja>
-      
       </ScrollView>
-      <StatusBar style="auto" />
+      
+      
     </View>
   );
 }
