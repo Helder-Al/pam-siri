@@ -4,13 +4,8 @@ import styles from './style.js';
 
 export default function bannerLoja(){
     return(
-        <>
-        
-        
+        <div id='index'>
         <Image style = {styles.bannerLoja} source = {require(`../../img/bannerLoja.jpg`)} />
-        <Text style = {styles.textBanner}> Em Cartaz </Text>
-        
-        
-        </>
+        </div>
     );
 }

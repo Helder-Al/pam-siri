@@ -1,16 +1,20 @@
 import React,{Fragment} from 'react';
 import { Image,Button,Text, View } from 'react-native';
-import styles from './style.js';
+import '../../css/style.css';
 
 
 export default function bannerLoja(){
     return(
-        <>
-        <View style={styles.navFrame}>
-            <Text style={styles.font}>aoba</Text>
-            <Button></Button>
-        </View>
+        <nav className='nav'>
+            <ul className="ul">
+                    <a href="#index">Início</a>
+                    <a href="#sobre">Cardápio</a>
+                    <a href="#projetos">Desenvolvedores</a>
+                    
+            </ul>
+        </nav>
         
-        </>
+        
+        
     );
 }

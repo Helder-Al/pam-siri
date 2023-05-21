@@ -5,7 +5,7 @@ const styles = StyleSheet.create({
         marginBottom:'90%'
     },
     bannerLoja:{
-        resizeMode:'strech',
+        resizeMode:'stretch',
         width:'100%',
         height:550,
         
