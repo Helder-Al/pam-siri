@@ -11,11 +11,16 @@ const styles = StyleSheet.create({
         
     },
     textBanner:{
-        flex:1,
         fontSize:30,
-        color:'white',
-        marginTop:15,
+        color:'black',
+        marginTop:100,
         textAlign:'center'
+    },
+    textframe:{
+        backgroundColor:'#eff3b0',
+        width:'50%',
+        marginLeft:'25%',
+        borderRadius:10        
     }
 })
 

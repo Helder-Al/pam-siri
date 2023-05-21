@@ -27,7 +27,7 @@ const DATA =
         categ: 'Pratos Principais',
         desc:'Um delicioso risoto preparado com arroz arbóreo, caldo de legumes, carne de siri fresca, cebola, alho e um toque de vinho branco. Finalizado com queijo parmesão ralado e ervas frescas. Um prato sofisticado e cheio de sabor.',
         ava:'7/10',
-        imagem:'hamsiri.jpg'
+        imagem:'risoto.jpg'
 
     },
     {
@@ -37,7 +37,7 @@ const DATA =
         categ: 'Saladas',
         desc:'Uma refrescante salada de siri feita com carne de caranguejo desfiada, alface, tomate, cebola roxa e um molho especial de iogurte com ervas. Uma opção saudável e leve para quem deseja desfrutar dos sabores do mar.',
         ava:'6/10',
-        imagem:'hamsiri.jpg'
+        imagem:'salada.jpg'
 
     },
     {
@@ -47,7 +47,7 @@ const DATA =
         categ: 'Pratos Principais',
         desc:'Uma moqueca de siri deliciosamente temperada, preparada com leite de coco, dendê, pimentões, tomate, cebola, alho e coentro. Acompanhada de arroz branco soltinho e pirão. Uma explosão de sabores da culinária brasileira.',
         ava:'9/10',
-        imagem:'hamsiri.jpg'
+        imagem:'moqueca.jpg'
 
     },
     {
@@ -57,7 +57,7 @@ const DATA =
         categ: 'Salgados',
         desc:'Uma irresistível empada recheada com um delicioso e cremoso recheio de carne de siri temperada com especiarias. A massa é leve e crocante, perfeita para um lanche rápido e saboroso.',
         ava:'8/10',
-        imagem:'hamsiri.jpg'
+        imagem:'empada.jpg'
 
     },
     {
@@ -67,7 +67,7 @@ const DATA =
         categ: 'Petiscos',
         desc:'Bolinhos de siri crocantes por fora e macios por dentro. Feitos com carne de siri fresca, temperos e especiarias. Acompanhados de um molho especial para mergulhar. Ideal para compartilhar com os amigos.',
         ava:'7/10',
-        imagem:'hamsiri.jpg'
+        imagem:'bolinho.jpg'
 
     },
     {
@@ -87,7 +87,7 @@ const DATA =
         categ: 'Tortas',
         desc:'Uma torta salgada de siri com uma crosta dourada e recheio abundante de carne de siri, legumes frescos e temperos. Perfeita para um almoço ou jantar em família, acompanhada de uma salada fresca.',
         ava:'8/10',
-        imagem:'hamsiri.jpg'
+        imagem:'torta.jpg'
 
     },
     {
@@ -97,7 +97,7 @@ const DATA =
         categ: 'Entradas',
         desc:'Uma refrescante entrada de ceviche feita com carne de siri fresca, suco de limão, cebola roxa, coentro e pimenta. Servido com chips de tortilla crocantes. Uma opção leve e cheia de sabores cítricos.',
         ava:'7/10',
-        imagem:'hamsiri.jpg'
+        imagem:'ceviche.jpg'
 
     },
     {
@@ -107,7 +107,7 @@ const DATA =
         categ: 'Pratos Principais',
         desc:'Um clássico da culinária baiana, o bobó de siri é preparado com carne de siri desfiada, purê de mandioca cremoso, leite de coco, azeite de dendê e temperos especiais. Acompanhado de arroz branco e farofa.',
         ava:'9/10',
-        imagem:'hamsiri.jpg'
+        imagem:'bobo.jpg'
 
     },
     {
@@ -117,7 +117,7 @@ const DATA =
         categ: 'Petiscoss',
         desc:'Croquetes crocantes por fora e recheados com uma mistura saborosa de carne de siri, batata, cebola e temperos. Uma opção perfeita para petiscar em um happy hour ou como acompanhamento de uma refeição.',
         ava:'7/10',
-        imagem:'hamsiri.jpg'
+        imagem:'croquete.jpg'
 
     },
 ]

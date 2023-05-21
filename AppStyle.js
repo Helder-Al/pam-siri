@@ -6,6 +6,8 @@ const styles = StyleSheet.create({
       backgroundColor: '#2b6a29',
       alignItems: 'center',
       justifyContent: 'center',
+      borderColor:'#352c1c',
+      borderWidth:10
     },
     scroller:{
       flex:2,

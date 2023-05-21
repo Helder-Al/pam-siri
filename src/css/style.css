@@ -14,7 +14,7 @@ nav{
   
   nav ul {
     display: flex;
-    
+
     
   }
   
@@ -53,8 +53,9 @@ nav{
     
   }
   .column{
-    width: 300px;
-
+    margin-top: 50px;
+    width: 280px;
+    padding: 5px;
   }
   .c4by3{
 width: 100%;
@@ -67,3 +68,78 @@ height: 200px;
   .title.is-4{
     padding-left: 1.5rem;
   }
+  .lista{
+  width: 1%;
+  }
+  .sobre .container{
+    margin-top: 30px;
+    margin-right: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background-color: #eff3b0;
+    width:50%;
+    border-radius: 10px;
+}
+.sobre .container-right{
+  margin-top: 30px;
+  margin-left: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  background-color: #eff3b0;
+  width:50%;
+  border-radius: 10px;
+}
+
+.sobre.sobre-text{
+    width: 50%;
+    padding-right: 40px;
+    
+  }
+
+.sobre .sobre-text p{
+    margin: 18px 0;
+    align-items: center;
+    width: 600px;
+    color: black;
+    padding: 10px;
+}
+.sobre .sobre-text h3{
+    font-size: large;
+    margin: 18px 0;
+    align-items: center;
+    width: 600px;
+    color: black;
+    padding: 10px;
+}
+
+.devs .card{
+  max-width: 100%;
+  margin-left: 15px;
+}
+
+.devs .card-content{
+  max-width: 100%;
+  text-align: justify;
+}
+
+.devs .content{
+  color: black;
+  
+}
+.devs .column{
+  margin-top: 50px;
+  width: 280px;
+  padding: 25px;
+}
+.textBanner{
+  font-size:20px;
+  color:white;
+  text-align:center;
+}
+.textframe{
+  background-color:#3f360d;
+  width:50%;
+  border-radius:10px;
+}

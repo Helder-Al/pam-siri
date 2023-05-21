@@ -5,7 +5,9 @@ import styles from './style.js';
 export default function bannerLoja(){
     return(
         <div id='index'>
+            
         <Image style = {styles.bannerLoja} source = {require(`../../img/bannerLoja.jpg`)} />
+        
         </div>
     );
 }
