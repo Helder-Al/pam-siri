@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5e0ccb2.css",
+    "main.js": "/static/js/main.3097bb01.js",
+    "static/js/248.f10e8f6d.js": "/static/js/248.f10e8f6d.js",
+    "static/media/ceviche.jpg": "/static/media/ceviche.11bc02a71328c7d81209.jpg",
+    "static/media/bannerLoja.jpg": "/static/media/bannerLoja.554c0e0a73b0ecf7fb54.jpg",
+    "static/media/espaguete.jpg": "/static/media/espaguete.c025aa23c56811026bdd.jpg",
+    "static/media/risoto.jpg": "/static/media/risoto.1e9d9e9865e76aa6dae4.jpg",
+    "static/media/hamsiri.jpg": "/static/media/hamsiri.b7270f08d55fa20d2015.jpg",
+    "static/media/bobo.jpg": "/static/media/bobo.17fc112c50bcae3d98d6.jpg",
+    "static/media/torta.jpg": "/static/media/torta.9bffc114bd91ab1cec4f.jpg",
+    "static/media/moqueca.jpg": "/static/media/moqueca.cb811b31328bcf11fc20.jpg",
+    "static/media/croquete.jpg": "/static/media/croquete.7ea0a4e81be97c8da07d.jpg",
+    "static/media/salada.jpg": "/static/media/salada.66985f74885fe509d32f.jpg",
+    "static/media/empada.jpg": "/static/media/empada.68ca46dec4fbf88bd666.jpg",
+    "static/media/bolinho.jpg": "/static/media/bolinho.f133bb1fde1f6b51bd47.jpg",
+    "static/media/casqsiri.jpg": "/static/media/casqsiri.5afa46737766bccb9484.jpg",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.c5e0ccb2.css.map": "/static/css/main.c5e0ccb2.css.map",
+    "main.3097bb01.js.map": "/static/js/main.3097bb01.js.map",
+    "248.f10e8f6d.js.map": "/static/js/248.f10e8f6d.js.map"
+  },
+  "entrypoints": [
+    "static/js/248.f10e8f6d.js",
+    "static/css/main.c5e0ccb2.css",
+    "static/js/main.3097bb01.js"
+  ]
+}
